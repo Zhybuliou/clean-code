@@ -18,7 +18,8 @@
 }
 
 @media (max-width:768px) {
-.top-page-element { text-align: center;
+.top-page-element { 
+  text-align: center;
 }
 }
 .centered-page-element {
